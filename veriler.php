@@ -24,7 +24,7 @@ include "connect.php";
 
 <thead>
     <tr>
-      <th scope="col">id no</th>
+      <th scope="col">ID</th>
       <th scope="col">ADI</th>
       <th scope="col">EMAİLİ</th>
       <th scope="col">ŞİFRESİ</th>
